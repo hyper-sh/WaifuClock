@@ -5,6 +5,7 @@
    <a href="https://t.me/weebo_setup" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
    </p>
 
+<p align="center">
 Hey guys looking for Lockscreen Clocks 
 Check this out....
 Join WaifuClock support group for 
@@ -14,3 +15,10 @@ For plus build
 Contact dev...
 
 Thanks a lot for supporting 
+
+Download can be found in 
+Bottom releases 
+
+
+Join channel for faster updates......
+</p>
